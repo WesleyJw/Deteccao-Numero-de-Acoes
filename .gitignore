@@ -1,0 +1,10 @@
+creating_filter.ipynb
+estudo_autocorrelcao.ipynb
+function_file.ipynb
+carga_s3.py process_sqc.py
+projeto_mari.py
+__pycache__/
+.ipynb_checkpoints/
+carga_s3.py
+process_sqc.py
+.gitignore
